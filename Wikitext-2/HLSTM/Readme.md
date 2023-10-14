@@ -10,3 +10,5 @@
 |HLSTM|	21.98|	20.39|	139	|2.98E-08|	50|	moses|
 |HLSTM|	51.75|	49.58|	151	|2.33E-10|	50|	Split|
 |HLSTM|	68.75|	63.34|	122	|3.81E-06|	70|	moses|
+
+<img src="https://github.com/a-emadi/HLSTM/assets/147874627/b7753984-dd4a-4da4-9184-1d88a808a2de">
