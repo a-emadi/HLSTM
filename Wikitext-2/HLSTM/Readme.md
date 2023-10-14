@@ -1,5 +1,7 @@
 # HLSTM
 
+![image](https://github.com/a-emadi/HLSTM/assets/147874627/3e7bdc98-a997-47cc-ba54-1c56f7cbf091)
+
 |Model | Val. PPL|	Test PPL|	Last Epoch|	Last LR|	Seq_len|	Tokenizer|
 |------|------|------|------|------|------|------|
 |HLSTM|	1.826|	1.779|	64|	0.007813|	25|	moses|
