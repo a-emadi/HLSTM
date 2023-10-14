@@ -1,5 +1,7 @@
 # Basic LSTM with dropout
 
+<img src="https://github.com/a-emadi/HLSTM/assets/147874627/25247c7f-309f-49a8-a5c0-154956aedd12">
+
 |Model | Val. PPL|	Test PPL|	Last Epoch|	Last LR|	Seq_len|	Tokenizer|
 |------|------|------|------|------|------|------|
 |LSTM| 135.2| 130.2| 107| 5.96E-08| 25| Split|
