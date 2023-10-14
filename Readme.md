@@ -1,6 +1,6 @@
 # HLSTM Report
 
-![image](https://github.com/a-emadi/HLSTM/assets/147874627/3e7bdc98-a997-47cc-ba54-1c56f7cbf091)
+<img src="https://github.com/a-emadi/HLSTM/assets/147874627/bd4fd9e9-c047-46eb-8ba2-1a43cbbf799e">
 
 
 ## Wikitext-2
