@@ -1,6 +1,6 @@
 # HLSTM
 
-![image](https://github.com/a-emadi/HLSTM/assets/147874627/3e7bdc98-a997-47cc-ba54-1c56f7cbf091)
+<img src="https://github.com/a-emadi/HLSTM/assets/147874627/a5a85d65-a513-4f73-9b45-169b051c8b20">
 
 |Model | Val. PPL|	Test PPL|	Last Epoch|	Last LR|	Seq_len|	Tokenizer|
 |------|------|------|------|------|------|------|
