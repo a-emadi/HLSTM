@@ -1,6 +1,9 @@
 # H2HLSTM
   Hidden2Hidden LSTM
-  
+
+<img  src="https://github.com/a-emadi/HLSTM/assets/147874627/a11f53bd-6c9d-4c70-8496-156a0b41cbd0">
+
+
 |Model | Val. PPL|	Test PPL|	Last Epoch|	Last LR|	Seq_len|	Tokenizer|
 |------|------|------|------|------|------|------|
 |H2HLSTM| 3.069| 2.987| 145| 4.66E-10| 25| Split|
