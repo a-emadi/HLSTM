@@ -1,5 +1,6 @@
 # H2HLSTM
-  Hiden2Hidden LSTM
+  Hidden2Hidden LSTM
+  
 |Model | Val. PPL|	Test PPL|	Last Epoch|	Last LR|	Seq_len|	Tokenizer|
 |------|------|------|------|------|------|------|
 |H2HLSTM| 3.069| 2.987| 145| 4.66E-10| 25| Split|
