@@ -1,11 +1,10 @@
 # HLSTM
   Report of observations and investigations on LSTM based Language Modeling
 
-
-<img src="https://github.com/a-emadi/HLSTM/assets/147874627/bd4fd9e9-c047-46eb-8ba2-1a43cbbf799e">
-
-
 ## Wikitext-2
+
+### HLSTM
+<img src="https://github.com/a-emadi/HLSTM/assets/147874627/bd4fd9e9-c047-46eb-8ba2-1a43cbbf799e">
 |Model | Val. PPL|	Test PPL|	Last Epoch|	Last LR|	Seq_len|	Tokenizer|
 |------|------|------|------|------|------|------|
 |HLSTM|	1.826|	1.779|	64|	0.007813|	25|	moses|
@@ -16,6 +15,17 @@
 |HLSTM| 47.19| 45.49| 152| 2.38E-07| 50|Basic_English|
 |HLSTM|	51.75|	49.58|	151	|2.33E-10|	50|	Split|
 |HLSTM|	68.75|	63.34|	122	|3.81E-06|	70|	moses|
+
+### H2HLSTM
+<img  src="https://github.com/a-emadi/HLSTM/assets/147874627/a11f53bd-6c9d-4c70-8496-156a0b41cbd0">
+|Model | Val. PPL|	Test PPL|	Last Epoch|	Last LR|	Seq_len|	Tokenizer|
+|------|------|------|------|------|------|------|
+|H2HLSTM| 3.069| 2.987| 145| 4.66E-10| 25| Split|
+|H2HLSTM| 4.085| 3.855| 117| 1.91E-06| 35| moses|
+|H2HLSTM| 34.8| 33.59| 97| 6.10E-05| 50| Basic_English|
+|H2HLSTM| 38.15| 35.18| 88| 2.98E-08| 50| moses|
+|H2HLSTM| 67.48| 64.29| 99| 2.29E-05| 50| Split|
+
 
 ## Wikitext-103
 |Model | Val. PPL|	Test PPL|	Last Epoch|	Last LR|	Seq_len|	Tokenizer|
