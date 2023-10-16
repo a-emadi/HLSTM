@@ -4,7 +4,9 @@
 ## Wikitext-2
 
 ### HLSTM
+
 <img src="https://github.com/a-emadi/HLSTM/assets/147874627/bd4fd9e9-c047-46eb-8ba2-1a43cbbf799e">
+
 |Model | Val. PPL|	Test PPL|	Last Epoch|	Last LR|	Seq_len|	Tokenizer|
 |------|------|------|------|------|------|------|
 |HLSTM|	1.826|	1.779|	64|	0.007813|	25|	moses|
@@ -17,7 +19,9 @@
 |HLSTM|	68.75|	63.34|	122	|3.81E-06|	70|	moses|
 
 ### H2HLSTM
+
 <img  src="https://github.com/a-emadi/HLSTM/assets/147874627/a11f53bd-6c9d-4c70-8496-156a0b41cbd0">
+
 |Model | Val. PPL|	Test PPL|	Last Epoch|	Last LR|	Seq_len|	Tokenizer|
 |------|------|------|------|------|------|------|
 |H2HLSTM| 3.069| 2.987| 145| 4.66E-10| 25| Split|
