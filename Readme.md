@@ -1,4 +1,6 @@
-# HLSTM Report
+# HLSTM
+  Report of observations and investigations on LSTM based Language Modeling
+
 
 <img src="https://github.com/a-emadi/HLSTM/assets/147874627/bd4fd9e9-c047-46eb-8ba2-1a43cbbf799e">
 
