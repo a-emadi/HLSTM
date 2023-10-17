@@ -41,5 +41,7 @@
 |Model|	Val. PPL|	Test PPL|	Last Epoch|	Last LR|	Seq_len|	Tokenizer|
 |------|------|------|------|------|------|------|
 |HLSTM|	1.964|	1.782|	149|	2.91E-11|	25|	Split|
+|HLSTM|	2.651|	2.651|	2.355|	1.49E-08|	21|	Basic_English|
 |H2HLSTM|	3.94|	3.44|	123|	1.19E-07|	21|	Moses|
+|HLSTM|	87.17|	79.64|	78|	3.81E-06|	50|	Basic_English|
 |LSTM|	87.75|	74.87|	66|	1.90E-06|	21|	Moses|
