@@ -1,5 +1,5 @@
 # HLSTM
-  Report of observations and investigations on LSTM based Language Modeling
+  Report of empirical evaluation, observations and investigations on LSTM based Language Modeling
 
 ## Wikitext-2
 
